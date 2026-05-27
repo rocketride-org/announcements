@@ -1,0 +1,10 @@
+# CODEOWNERS for rocketride-org/announcements
+#
+# Every change to announcements.json (the content the VS Code extension renders)
+# requires PR review from at least one of these owners. The set is intentionally
+# small so the change cycle stays fast; expand as the team grows.
+#
+# Pattern semantics: GitHub matches the LAST matching pattern wins, so the
+# catch-all `*` rule applies to README, LICENSE, and workflow tweaks as well.
+
+* @kwit75 @jmaionchi @Rod-Christensen

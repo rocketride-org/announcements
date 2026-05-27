@@ -1,0 +1,60 @@
+name: Validate announcements.json
+
+# Single CI check: announcements.json must be valid JSON and conform to a
+# minimal sanity schema. Catches typos and bad timestamps before they ship
+# to every running extension.
+
+on:
+  pull_request:
+    paths:
+      - 'announcements.json'
+      - '.github/workflows/validate.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'announcements.json'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate JSON + schema
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+
+      - name: Parse JSON
+        run: jq -e . announcements.json > /dev/null
+
+      - name: Sanity-check schema
+        run: |
+          # schema_version must be 1
+          jq -e '.schema_version == 1' announcements.json > /dev/null
+
+          # announcements must be an array
+          jq -e '.announcements | type == "array"' announcements.json > /dev/null
+
+          # each entry has id + title + body; priority in {info, warning, urgent}; optional dates are ISO-8601 UTC
+          jq -e '
+            .announcements
+            | all(
+                .id != null and (.id | type == "string") and (.id | length > 0)
+                and .title != null and (.title | type == "string")
+                and .body != null and (.body | type == "string")
+                and ((.priority // "info") | IN("info", "warning", "urgent"))
+                and ((.valid_from // null) | (. == null or test("^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$")))
+                and ((.valid_until // null) | (. == null or test("^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$")))
+                and ((.link // null) | (. == null or test("^https?://")))
+                and ((.dismissable // true) | type == "boolean")
+              )
+          ' announcements.json > /dev/null
+
+          # ids are unique within the file (extension dedupes by id, but duplicates
+          # are still a sign of a botched edit)
+          jq -e '[.announcements[].id] | length == ([.announcements[].id] | unique | length)' announcements.json > /dev/null
+
+      - name: Echo entries
+        run: |
+          echo "## Announcement count: $(jq '.announcements | length' announcements.json)"
+          jq -r '.announcements[] | "  - [\(.priority // "info")] \(.id): \(.title)"' announcements.json
