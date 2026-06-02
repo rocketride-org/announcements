@@ -10,6 +10,15 @@
       "valid_until": "2026-06-05T23:59:59Z",
       "link": "https://lu.ma/agentic-ai-hackathon-sf",
       "dismissable": true
+    },
+    {
+      "id": "rocketride-launch-party-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide Launch Party",
+      "body": "Join us for the big **RocketRide Launch Party** on June 18, 2026 at **The Shack, San Francisco**. Come celebrate the launch with the team!",
+      "priority": "info",
+      "valid_from": "2026-06-02T00:00:00Z",
+      "valid_until": "2026-06-18T23:59:59Z",
+      "dismissable": true
     }
   ]
 }
