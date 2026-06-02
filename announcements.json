@@ -1,4 +1,15 @@
 {
   "schema_version": 1,
-  "announcements": []
+  "announcements": [
+    {
+      "id": "agentic-ai-hackathon-sf-2026",
+      "title": "![</>](assets/code-brackets.svg) Agentic AI Hackathon - SF",
+      "body": "8-Hour Hackathon at **AWS Builder Loft, SF** on June 5, 2026. Join us for an electrifying hackathon bringing together developers and AI enthusiasts. Sponsored by RocketRide, XTrace, vnovate, butterbase, Juspay & Photon.",
+      "priority": "info",
+      "valid_from": "2026-06-01T00:00:00Z",
+      "valid_until": "2026-06-05T23:59:59Z",
+      "link": "https://lu.ma/agentic-ai-hackathon-sf",
+      "dismissable": true
+    }
+  ]
 }
