@@ -52,7 +52,7 @@ jobs:
 
           # ids are unique within the file (extension dedupes by id, but duplicates
           # are still a sign of a botched edit)
-          jq -e '[.announcements[].id] | length == ([.announcements[].id] | unique | length)' announcements.json > /dev/null
+          jq -e '([.announcements[].id]) as $ids | ($ids | length) == ($ids | unique | length)' announcements.json > /dev/null
 
       - name: Echo entries
         run: |
