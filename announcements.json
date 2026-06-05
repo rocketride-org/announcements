@@ -8,7 +8,7 @@
       "priority": "info",
       "valid_from": "2026-06-01T00:00:00Z",
       "valid_until": "2026-06-05T23:59:59Z",
-      "link": "https://lu.ma/agentic-ai-hackathon-sf",
+      "link": "https://luma.com/zemh10km",
       "dismissable": true
     },
     {
@@ -18,6 +18,37 @@
       "priority": "info",
       "valid_from": "2026-06-02T00:00:00Z",
       "valid_until": "2026-06-18T23:59:59Z",
+      "link": "https://luma.com/f7klujxs",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-minimax-m3-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide × MiniMax",
+      "body": "We're teaming up with **MiniMax**! 🚀 Their **M3** open-weights model brings three frontier capabilities into one — agentic coding, 1M-context sparse attention, and native multimodality. It's **live today** as a node in our open-source inventory: drop it into a visual pipeline, benchmark it side-by-side against other frontier models in minutes, and trace every step with full observability. Pair M3's token efficiency with RocketRide's cost observability and aggregated cloud inference to run the best model for each task at the lowest cost. 💻",
+      "priority": "info",
+      "valid_from": "2026-06-04T00:00:00Z",
+      "valid_until": "2026-06-11T23:59:59Z",
+      "link": "https://www.linkedin.com/posts/rocketride-ai_introducing-minimax-m3-the-first-open-weights-activity-7467716002383032320-NQVW",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-cloud-launch-rho-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide Cloud Launch",
+      "body": "**RocketRide Cloud** launches **June 18 at SHACK15** — the open AI harness for any model, any agent, any tool. Since it's open source, you own the runtime. We're thrilled to announce **Rho** as the official partner for Launch Night! 🎉🚀 A high-energy evening for AI builders, enterprise teams, partners, and technical leaders. Reserve your spot — seats are going fast.",
+      "priority": "info",
+      "valid_from": "2026-06-04T00:00:00Z",
+      "valid_until": "2026-06-11T23:59:59Z",
+      "link": "https://lnkd.in/gfNdcy6J",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-harness-engineering-demo-2026",
+      "title": "![</>](assets/code-brackets.svg) Harness Engineering, Live",
+      "body": "At **SCALE Demo Day** (GMI Cloud Cohort 1X NVIDIA), co-founder **Joe Maionchi** brought a pipeline up in **under 30 seconds** — fully offline, on a **C++ runtime** with **64 threads running in parallel**. 🚀 The argument: every agentic harness today is closed, vendor-locked, and charges you per call. RocketRide is the open AI harness for all of it — any model, any agent, any tool — and since it's open source, you own the runtime.",
+      "priority": "info",
+      "valid_from": "2026-06-04T00:00:00Z",
+      "valid_until": "2026-06-11T23:59:59Z",
+      "link": "https://www.linkedin.com/posts/rocketride-ai_harness-aide-rocketridecloud-activity-7468452282938937344-r2l6",
       "dismissable": true
     }
   ]
