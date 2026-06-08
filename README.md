@@ -13,7 +13,7 @@ Hosting an announcement here means it shows up in every running extension within
     {
       "id": "string",                  // stable identifier; clients dedupe + remember "dismissed" state by id
       "title": "string",               // shown in the panel header, ~60 chars
-      "body": "string",                // shown below the title, supports inline Markdown (links, **bold**, `code`)
+      "body": "string",                // shown below the title; inline Markdown, ≤2 sentences, no emoji
       "priority": "info|warning|urgent", // controls color + ordering
       "valid_from": "YYYY-MM-DDTHH:MM:SSZ", // optional, ISO-8601 UTC; if absent, valid immediately
       "valid_until": "YYYY-MM-DDTHH:MM:SSZ", // optional; if absent, valid indefinitely
@@ -27,6 +27,8 @@ Hosting an announcement here means it shows up in every running extension within
 ### Field guidance
 
 - **`id`** — pick something descriptive and stable across edits. The extension remembers which ids the user dismissed; reusing an old `id` after the user dismissed it means they won't see the new content. Bump to a new `id` if the message materially changes.
+- **`title`** — short, plain text (~60 chars). The leading glyph is a Markdown image referencing a file in [`assets/`](assets/) (e.g. `![RocketRide](assets/rocketride.svg)`) — add visuals that way, not with emoji.
+- **`body`** — keep it to **two sentences at most** and **no emoji** (emoji read as cheap in-product). Inline Markdown is supported (`**bold**`, links, `` `code` ``); if you want a graphic, commit it under [`assets/`](assets/) and reference it with Markdown image syntax rather than inlining an emoji.
 - **`schema_version`** — current is `1`. Old extension builds ignore fields they don't recognize; bumping `schema_version` signals a structural change (e.g., adding a required field).
 - **`priority`** — `urgent` floats to the top and uses red styling; reserve for outages and security advisories. `warning` is yellow (degraded service, deprecation notices). `info` is blue (releases, events, feature highlights). Default if absent: `info`.
 - **`valid_from` / `valid_until`** — let you queue future announcements (drop the JSON into a PR ahead of time) and auto-expire stale ones. Both optional.

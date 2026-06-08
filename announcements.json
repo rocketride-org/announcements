@@ -8,7 +8,6 @@
       "priority": "info",
       "valid_from": "2026-06-01T00:00:00Z",
       "valid_until": "2026-06-05T23:59:59Z",
-      "discord_post_at": "2026-06-03T16:00:00Z",
       "link": "https://luma.com/zemh10km",
       "dismissable": true
     },
@@ -19,30 +18,26 @@
       "priority": "info",
       "valid_from": "2026-06-02T00:00:00Z",
       "valid_until": "2026-06-18T23:59:59Z",
-      "discord_post_at": "2026-06-03T16:00:00Z",
       "link": "https://luma.com/f7klujxs",
       "dismissable": true
     },
     {
       "id": "rocketride-minimax-m3-2026",
       "title": "![RocketRide](assets/rocketride.svg) RocketRide × MiniMax",
-      "body": "We're teaming up with **MiniMax**! 🚀 Their **M3** open-weights model brings three frontier capabilities into one — agentic coding, 1M-context sparse attention, and native multimodality. It's **live today** as a node in our open-source inventory: drop it into a visual pipeline, benchmark it side-by-side against other frontier models in minutes, and trace every step with full observability. Pair M3's token efficiency with RocketRide's cost observability and aggregated cloud inference to run the best model for each task at the lowest cost. 💻",
-      "discord_content": "Hello @everyone <:RocketRideiconWhite:1512204346182340728>\n\nWe're teaming up with MiniMax! 🚀\n\nTheir M3 open-weights model brings three frontier capabilities into one:\n⚡ Agentic coding\n🧠 1M-context sparse attention\n🖼️ Native multimodality\n\nIt's live today — we've added a MiniMax node to our open-source inventory, now updated for M3. Drop it into a visual pipeline, benchmark it side-by-side against other frontier models in minutes, and trace every step with full observability.\n\nPair M3's token efficiency with RocketRide's cost observability and aggregated cloud inference to run the best model for each task at the lowest cost.\n\n👉 Read more: https://www.linkedin.com/posts/rocketride-ai_introducing-minimax-m3-the-first-open-weights-activity-7467716002383032320-NQVW",
+      "body": "RocketRide and **MiniMax** are partnering to bring the **M3** open-weights model to every pipeline. It's live today as a node in our open-source inventory — drop it in, benchmark it, and trace every step.",
       "priority": "info",
       "valid_from": "2026-06-04T00:00:00Z",
       "valid_until": "2026-06-11T23:59:59Z",
-      "discord_post_at": "2026-06-05T16:00:00Z",
       "link": "https://www.linkedin.com/posts/rocketride-ai_introducing-minimax-m3-the-first-open-weights-activity-7467716002383032320-NQVW",
       "dismissable": true
     },
     {
       "id": "rocketride-harness-engineering-demo-2026",
-      "title": "![</>](assets/code-brackets.svg) Harness Engineering, Live",
-      "body": "At **SCALE Demo Day** (GMI Cloud Cohort 1X NVIDIA), co-founder **Joe Maionchi** brought a pipeline up in **under 30 seconds** — fully offline, on a **C++ runtime** with **64 threads running in parallel**. 🚀 The argument: every agentic harness today is closed, vendor-locked, and charges you per call. RocketRide is the open AI harness for all of it — any model, any agent, any tool — and since it's open source, you own the runtime.",
+      "title": "![RocketRide](assets/rocketride.svg) Harness Engineering, Live",
+      "body": "At **SCALE Demo Day**, co-founder **Joe Maionchi** built a pipeline in under 30 seconds — offline, on a 64-thread C++ runtime. RocketRide is the open AI harness you own, because it's open source.",
       "priority": "info",
       "valid_from": "2026-06-04T00:00:00Z",
       "valid_until": "2026-06-11T23:59:59Z",
-      "discord_post_at": "2026-06-03T16:00:00Z",
       "link": "https://www.linkedin.com/posts/rocketride-ai_harness-aide-rocketridecloud-activity-7468452282938937344-r2l6",
       "dismissable": true
     }
