@@ -8,7 +8,7 @@
       "priority": "info",
       "valid_from": "2026-06-01T00:00:00Z",
       "valid_until": "2026-06-05T23:59:59Z",
-      "link": "https://lu.ma/agentic-ai-hackathon-sf",
+      "link": "https://luma.com/zemh10km",
       "dismissable": true
     },
     {
@@ -18,6 +18,27 @@
       "priority": "info",
       "valid_from": "2026-06-02T00:00:00Z",
       "valid_until": "2026-06-18T23:59:59Z",
+      "link": "https://luma.com/f7klujxs",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-minimax-m3-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide × MiniMax",
+      "body": "RocketRide and **MiniMax** are partnering to bring the **M3** open-weights model to every pipeline. It's live today as a node in our open-source inventory — drop it in, benchmark it, and trace every step.",
+      "priority": "info",
+      "valid_from": "2026-06-04T00:00:00Z",
+      "valid_until": "2026-06-11T23:59:59Z",
+      "link": "https://www.linkedin.com/posts/rocketride-ai_introducing-minimax-m3-the-first-open-weights-activity-7467716002383032320-NQVW",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-harness-engineering-demo-2026",
+      "title": "![RocketRide](assets/rocketride.svg) Harness Engineering, Live",
+      "body": "At **SCALE Demo Day**, co-founder **Joe Maionchi** built a pipeline in under 30 seconds — offline, on a 64-thread C++ runtime. RocketRide is the open AI harness you own, because it's open source.",
+      "priority": "info",
+      "valid_from": "2026-06-04T00:00:00Z",
+      "valid_until": "2026-06-11T23:59:59Z",
+      "link": "https://www.linkedin.com/posts/rocketride-ai_harness-aide-rocketridecloud-activity-7468452282938937344-r2l6",
       "dismissable": true
     }
   ]
