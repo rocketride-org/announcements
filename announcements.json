@@ -40,6 +40,25 @@
       "valid_until": "2026-06-11T23:59:59Z",
       "link": "https://www.linkedin.com/posts/rocketride-ai_harness-aide-rocketridecloud-activity-7468452282938937344-r2l6",
       "dismissable": true
+    },
+    {
+      "id": "rocketride-cloud-live-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide Cloud is Live",
+      "body": "**RocketRide Cloud** and **AIDE**, the AI Development Environment, are live. Build, deploy, and scale AI apps.",
+      "priority": "info",
+      "valid_from": "2026-06-22T00:00:00Z",
+      "valid_until": "2026-08-22T23:59:59Z",
+      "link": "https://cloud.rocketride.ai/",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-discord-community-2026",
+      "title": "![Discord](assets/discord.svg) Join our Discord",
+      "body": "Connect with the RocketRide team and builders on **Discord**.",
+      "priority": "info",
+      "valid_from": "2026-06-22T00:00:00Z",
+      "link": "https://discord.gg/PMXrtenMsY",
+      "dismissable": true
     }
   ]
 }
