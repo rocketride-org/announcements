@@ -59,6 +59,16 @@
       "valid_from": "2026-06-22T00:00:00Z",
       "link": "https://discord.gg/PMXrtenMsY",
       "dismissable": true
+    },
+    {
+      "id": "hackwithbay-3-sf-2026",
+      "title": "![</>](assets/code-brackets.svg) HackwithBay 3.0 - SF",
+      "body": "8-hour hackathon on **Thoughtful Agents for Productivity** at **AWS Builder Loft, SF** on July 7, 2026. Sponsored by RocketRide.",
+      "priority": "info",
+      "valid_from": "2026-07-02T00:00:00Z",
+      "valid_until": "2026-07-07T23:59:59Z",
+      "link": "https://luma.com/sv61aqlg?tk=3n8mvg",
+      "dismissable": true
     }
   ]
 }
