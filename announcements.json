@@ -2,46 +2,6 @@
   "schema_version": 1,
   "announcements": [
     {
-      "id": "agentic-ai-hackathon-sf-2026",
-      "title": "![</>](assets/code-brackets.svg) Agentic AI Hackathon - SF",
-      "body": "8-Hour Hackathon at **AWS Builder Loft, SF** on June 5, 2026. Join us for an electrifying hackathon bringing together developers and AI enthusiasts. Sponsored by RocketRide, XTrace, vnovate, butterbase, Juspay & Photon.",
-      "priority": "info",
-      "valid_from": "2026-06-01T00:00:00Z",
-      "valid_until": "2026-06-05T23:59:59Z",
-      "link": "https://luma.com/zemh10km",
-      "dismissable": true
-    },
-    {
-      "id": "rocketride-launch-party-2026",
-      "title": "![RocketRide](assets/rocketride.svg) RocketRide Launch Party",
-      "body": "Join us for the big **RocketRide Launch Party** on June 18, 2026 at **The Shack, San Francisco**. Come celebrate the launch with the team!",
-      "priority": "info",
-      "valid_from": "2026-06-02T00:00:00Z",
-      "valid_until": "2026-06-18T23:59:59Z",
-      "link": "https://luma.com/f7klujxs",
-      "dismissable": true
-    },
-    {
-      "id": "rocketride-minimax-m3-2026",
-      "title": "![RocketRide](assets/rocketride.svg) RocketRide × MiniMax",
-      "body": "RocketRide and **MiniMax** are partnering to bring the **M3** open-weights model to every pipeline. It's live today as a node in our open-source inventory. Drop it in, benchmark it, and trace every step.",
-      "priority": "info",
-      "valid_from": "2026-06-04T00:00:00Z",
-      "valid_until": "2026-06-11T23:59:59Z",
-      "link": "https://www.linkedin.com/posts/rocketride-ai_introducing-minimax-m3-the-first-open-weights-activity-7467716002383032320-NQVW",
-      "dismissable": true
-    },
-    {
-      "id": "rocketride-harness-engineering-demo-2026",
-      "title": "![RocketRide](assets/rocketride.svg) Harness Engineering, Live",
-      "body": "At **SCALE Demo Day**, co-founder **Joe Maionchi** built a pipeline in under 30 seconds, offline, on a 64-thread C++ runtime. RocketRide is the open AI harness you own, because it's open source.",
-      "priority": "info",
-      "valid_from": "2026-06-04T00:00:00Z",
-      "valid_until": "2026-06-11T23:59:59Z",
-      "link": "https://www.linkedin.com/posts/rocketride-ai_harness-aide-rocketridecloud-activity-7468452282938937344-r2l6",
-      "dismissable": true
-    },
-    {
       "id": "rocketride-cloud-live-2026",
       "title": "![RocketRide](assets/rocketride.svg) RocketRide Cloud is Live",
       "body": "Offload the heavy lifting of production AI with **RocketRide Cloud**: shared pipelines, no-hassle infra, and a fraction of the cost on our patented model server. Sign up to start building.",
@@ -102,7 +62,7 @@
     {
       "id": "demo-compare-llms-2026",
       "title": "![Watch](assets/video.svg) Demo: Compare LLMs Side by Side",
-      "body": "Watch **Josh** benchmark multiple LLMs in a single RocketRide pipeline, in real time. See the demo.",
+      "body": "Watch **Josh** compare multiple LLMs in a single RocketRide pipeline, in real time. See the demo.",
       "priority": "info",
       "valid_from": "2026-07-02T00:00:00Z",
       "valid_until": "2026-07-16T00:00:00Z",
@@ -130,9 +90,9 @@
       "dismissable": true
     },
     {
-      "id": "demo-oss-benchmarking-2026",
-      "title": "![Watch](assets/video.svg) Demo: Real-Time LLM Benchmarking",
-      "body": "Route one prompt to **Claude, GPT-5.2, Gemini 3 Pro, and Grok** side by side in a real-time RocketRide eval pipeline. Watch the demo.",
+      "id": "demo-realtime-llm-comparison-2026",
+      "title": "![Watch](assets/video.svg) Demo: Real-Time LLM Comparison",
+      "body": "Route one prompt to **Claude, GPT-5.2, Gemini 3 Pro, and Grok** side by side in a real-time RocketRide comparison pipeline. Watch the demo.",
       "priority": "info",
       "valid_from": "2026-07-16T00:00:00Z",
       "valid_until": "2026-07-30T00:00:00Z",
@@ -147,6 +107,16 @@
       "valid_from": "2026-07-16T00:00:00Z",
       "valid_until": "2026-07-30T00:00:00Z",
       "link": "https://www.youtube.com/watch?v=xF2Npx2iewo",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-oss-v1-3-0-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide OSS v1.3.0",
+      "body": "The **v1.3.0** release adds scheduled pipeline deployments, a faster vision suite, and new nodes for DeepL, Daytona, FalkorDB, Mem0, and more. Update the VS Code extension to get it.",
+      "priority": "info",
+      "valid_from": "2026-07-07T00:00:00Z",
+      "valid_until": "2026-08-07T23:59:59Z",
+      "link": "https://github.com/rocketride-org/rocketride-server/releases/tag/vscode-v1.3.0",
       "dismissable": true
     }
   ]
