@@ -2,52 +2,11 @@
   "schema_version": 1,
   "announcements": [
     {
-      "id": "agentic-ai-hackathon-sf-2026",
-      "title": "![</>](assets/code-brackets.svg) Agentic AI Hackathon - SF",
-      "body": "8-Hour Hackathon at **AWS Builder Loft, SF** on June 5, 2026. Join us for an electrifying hackathon bringing together developers and AI enthusiasts. Sponsored by RocketRide, XTrace, vnovate, butterbase, Juspay & Photon.",
-      "priority": "info",
-      "valid_from": "2026-06-01T00:00:00Z",
-      "valid_until": "2026-06-05T23:59:59Z",
-      "link": "https://luma.com/zemh10km",
-      "dismissable": true
-    },
-    {
-      "id": "rocketride-launch-party-2026",
-      "title": "![RocketRide](assets/rocketride.svg) RocketRide Launch Party",
-      "body": "Join us for the big **RocketRide Launch Party** on June 18, 2026 at **The Shack, San Francisco**. Come celebrate the launch with the team!",
-      "priority": "info",
-      "valid_from": "2026-06-02T00:00:00Z",
-      "valid_until": "2026-06-18T23:59:59Z",
-      "link": "https://luma.com/f7klujxs",
-      "dismissable": true
-    },
-    {
-      "id": "rocketride-minimax-m3-2026",
-      "title": "![RocketRide](assets/rocketride.svg) RocketRide × MiniMax",
-      "body": "RocketRide and **MiniMax** are partnering to bring the **M3** open-weights model to every pipeline. It's live today as a node in our open-source inventory — drop it in, benchmark it, and trace every step.",
-      "priority": "info",
-      "valid_from": "2026-06-04T00:00:00Z",
-      "valid_until": "2026-06-11T23:59:59Z",
-      "link": "https://www.linkedin.com/posts/rocketride-ai_introducing-minimax-m3-the-first-open-weights-activity-7467716002383032320-NQVW",
-      "dismissable": true
-    },
-    {
-      "id": "rocketride-harness-engineering-demo-2026",
-      "title": "![RocketRide](assets/rocketride.svg) Harness Engineering, Live",
-      "body": "At **SCALE Demo Day**, co-founder **Joe Maionchi** built a pipeline in under 30 seconds — offline, on a 64-thread C++ runtime. RocketRide is the open AI harness you own, because it's open source.",
-      "priority": "info",
-      "valid_from": "2026-06-04T00:00:00Z",
-      "valid_until": "2026-06-11T23:59:59Z",
-      "link": "https://www.linkedin.com/posts/rocketride-ai_harness-aide-rocketridecloud-activity-7468452282938937344-r2l6",
-      "dismissable": true
-    },
-    {
       "id": "rocketride-cloud-live-2026",
       "title": "![RocketRide](assets/rocketride.svg) RocketRide Cloud is Live",
-      "body": "**RocketRide Cloud** and **AIDE**, the AI Development Environment, are live. Join the waitlist to start building.",
+      "body": "Offload the heavy lifting of production AI with **RocketRide Cloud**: shared pipelines, no-hassle infra, and a fraction of the cost on our patent-pending model server. Sign up to start building.",
       "priority": "info",
       "valid_from": "2026-06-22T00:00:00Z",
-      "valid_until": "2026-08-22T23:59:59Z",
       "link": "https://cloud.rocketride.ai/",
       "dismissable": true
     },
@@ -58,6 +17,106 @@
       "priority": "info",
       "valid_from": "2026-06-22T00:00:00Z",
       "link": "https://discord.gg/PMXrtenMsY",
+      "dismissable": true
+    },
+    {
+      "id": "hackwithbay-3-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) HackwithBay 3.0 - SF",
+      "body": "8-hour hackathon on **Thoughtful Agents for Productivity** at **AWS Builder Loft, SF** on July 7, 2026. Sponsored by RocketRide.",
+      "priority": "info",
+      "valid_from": "2026-07-02T00:00:00Z",
+      "valid_until": "2026-07-08T06:59:59Z",
+      "link": "https://luma.com/sv61aqlg?tk=3n8mvg",
+      "dismissable": true
+    },
+    {
+      "id": "hackwithseattle-2026",
+      "title": "![Hackathon](assets/trophy.svg) HackwithSeattle 2.0",
+      "body": "8-hour hackathon at the **AWS Skill Center, Seattle** on July 17, 2026. Hack, get mentorship, and demo your project to industry leaders.",
+      "priority": "info",
+      "valid_from": "2026-07-02T00:00:00Z",
+      "valid_until": "2026-07-18T06:59:59Z",
+      "link": "https://luma.com/6u7f4gen",
+      "dismissable": true
+    },
+    {
+      "id": "podcast-ide-command-center-2026",
+      "title": "![Listen](assets/mic.svg) Podcast: The IDE as AI Command Center",
+      "body": "**Joe Maionchi** on why your IDE is the new command center for building AI. Watch the episode.",
+      "priority": "info",
+      "valid_from": "2026-07-02T00:00:00Z",
+      "valid_until": "2026-07-31T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=aV0Ka4mJiAs",
+      "dismissable": true
+    },
+    {
+      "id": "podcast-mlops-fast-slow-2026",
+      "title": "![Listen](assets/mic.svg) Podcast: AI Is Fast, Projects Are Slow",
+      "body": "On the **MLOps Community** podcast: why AI projects stall in production and how RocketRide closes the gap. Watch now.",
+      "priority": "info",
+      "valid_from": "2026-07-02T00:00:00Z",
+      "valid_until": "2026-07-31T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=3xZ78HHdqAk",
+      "dismissable": true
+    },
+    {
+      "id": "demo-compare-llms-2026",
+      "title": "![Watch](assets/video.svg) Demo: Compare LLMs Side by Side",
+      "body": "Watch **Josh** compare multiple LLMs in a single RocketRide pipeline, in real time. See the demo.",
+      "priority": "info",
+      "valid_from": "2026-07-02T00:00:00Z",
+      "valid_until": "2026-07-16T00:00:00Z",
+      "link": "https://www.youtube.com/watch?v=_P-Tx8DNZLk",
+      "dismissable": true
+    },
+    {
+      "id": "demo-fitcheck-2026",
+      "title": "![Watch](assets/video.svg) Community Demo: FitCheck",
+      "body": "See **FitCheck**, a community-built app running on RocketRide, in action. Watch the demo.",
+      "priority": "info",
+      "valid_from": "2026-07-02T00:00:00Z",
+      "valid_until": "2026-07-16T00:00:00Z",
+      "link": "https://www.youtube.com/watch?v=xJh3skeQsOY",
+      "dismissable": true
+    },
+    {
+      "id": "demo-pathfinder-2026",
+      "title": "![Watch](assets/video.svg) Community Demo: PathFinder",
+      "body": "**PathFinder**, a community-built RocketRide × **Neo4j** app, maps your skills from your current role to an AI-native target with a realistic timeline. Watch the demo.",
+      "priority": "info",
+      "valid_from": "2026-07-16T00:00:00Z",
+      "valid_until": "2026-07-30T00:00:00Z",
+      "link": "https://www.youtube.com/watch?v=zNKhgcmHTHs",
+      "dismissable": true
+    },
+    {
+      "id": "demo-realtime-llm-comparison-2026",
+      "title": "![Watch](assets/video.svg) Demo: Real-Time LLM Comparison",
+      "body": "Route one prompt to **Claude, GPT-5.2, Gemini 3 Pro, and Grok** side by side in a real-time RocketRide comparison pipeline. Watch the demo.",
+      "priority": "info",
+      "valid_from": "2026-07-16T00:00:00Z",
+      "valid_until": "2026-07-30T00:00:00Z",
+      "link": "https://www.youtube.com/watch?v=pq2eRW_0D0Q",
+      "dismissable": true
+    },
+    {
+      "id": "demo-meeting-recap-2026",
+      "title": "![Watch](assets/video.svg) Demo: Meeting Recap That Writes Itself",
+      "body": "A no-code RocketRide agent turns a meeting transcript into an executive summary and follow-up email in under 3 minutes. Watch the demo.",
+      "priority": "info",
+      "valid_from": "2026-07-16T00:00:00Z",
+      "valid_until": "2026-07-30T00:00:00Z",
+      "link": "https://www.youtube.com/watch?v=xF2Npx2iewo",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-oss-v1-3-0-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide OSS v1.3.0",
+      "body": "The **v1.3.0** release adds scheduled pipeline deployments, a faster vision suite, and new nodes for DeepL, Daytona, FalkorDB, Mem0, and more. Update the VS Code extension to get it.",
+      "priority": "info",
+      "valid_from": "2026-07-07T00:00:00Z",
+      "valid_until": "2026-08-07T23:59:59Z",
+      "link": "https://github.com/rocketride-org/rocketride-server/releases/tag/vscode-v1.3.0",
       "dismissable": true
     }
   ]
