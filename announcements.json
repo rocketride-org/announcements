@@ -40,6 +40,26 @@
       "dismissable": true
     },
     {
+      "id": "agents-you-love-2-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) Agents You Love 2.0 - SF",
+      "body": "8-hour hackathon to **build AI agents people actually want to use** in **San Francisco** on July 28, 2026. RocketRide × HydraDB.",
+      "priority": "info",
+      "valid_from": "2026-07-09T00:00:00Z",
+      "valid_until": "2026-07-29T06:59:59Z",
+      "link": "https://luma.com/8lez4n99?tk=MNPOMy",
+      "dismissable": true
+    },
+    {
+      "id": "memory-meets-motion-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) Memory Meets Motion - SF",
+      "body": "8-hour hackathon on **long-term AI memory and autonomous agents** in **San Francisco** on July 30, 2026. RocketRide × FalkorDB.",
+      "priority": "info",
+      "valid_from": "2026-07-09T00:00:00Z",
+      "valid_until": "2026-07-31T06:59:59Z",
+      "link": "https://luma.com/iu9svaun",
+      "dismissable": true
+    },
+    {
       "id": "podcast-ide-command-center-2026",
       "title": "![Listen](assets/mic.svg) Podcast: The IDE as AI Command Center",
       "body": "**Joe Maionchi** on why your IDE is the new command center for building AI. Watch the episode.",
