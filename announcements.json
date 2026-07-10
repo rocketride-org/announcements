@@ -60,6 +60,16 @@
       "dismissable": true
     },
     {
+      "id": "build-fast-launch-loud-palo-alto-2026",
+      "title": "![Hackathon](assets/trophy.svg) Build Fast. Launch Loud. - Palo Alto",
+      "body": "One-day **Prompt Driven Development** hackathon at **Venture Dock, Palo Alto** on July 25, 2026. Co-sponsored by RocketRide.",
+      "priority": "info",
+      "valid_from": "2026-07-09T00:00:00Z",
+      "valid_until": "2026-07-26T06:59:59Z",
+      "link": "https://luma.com/1c8vmqyr",
+      "dismissable": true
+    },
+    {
       "id": "podcast-ide-command-center-2026",
       "title": "![Listen](assets/mic.svg) Podcast: The IDE as AI Command Center",
       "body": "**Joe Maionchi** on why your IDE is the new command center for building AI. Watch the episode.",
