@@ -20,16 +20,6 @@
       "dismissable": true
     },
     {
-      "id": "hackwithbay-3-sf-2026",
-      "title": "![Hackathon](assets/trophy.svg) HackwithBay 3.0 - SF",
-      "body": "8-hour hackathon on **Thoughtful Agents for Productivity** at **AWS Builder Loft, SF** on July 7, 2026. Sponsored by RocketRide.",
-      "priority": "info",
-      "valid_from": "2026-07-02T00:00:00Z",
-      "valid_until": "2026-07-08T06:59:59Z",
-      "link": "https://luma.com/sv61aqlg?tk=3n8mvg",
-      "dismissable": true
-    },
-    {
       "id": "hackwithseattle-2026",
       "title": "![Hackathon](assets/trophy.svg) HackwithSeattle 2.0",
       "body": "8-hour hackathon at the **AWS Skill Center, Seattle** on July 17, 2026. Hack, get mentorship, and demo your project to industry leaders.",
@@ -140,12 +130,22 @@
       "dismissable": true
     },
     {
+      "id": "demo-multilingual-highlights-2026",
+      "title": "![Watch](assets/video.svg) Demo: Multilingual Match Highlights",
+      "body": "**Charlie Gillet** turns match-commentary clips in any language into clean English highlights on RocketRide Cloud. Watch the build.",
+      "priority": "info",
+      "valid_from": "2026-07-10T00:00:00Z",
+      "valid_until": "2026-07-24T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=rxwGg_k7Pws",
+      "dismissable": true
+    },
+    {
       "id": "rocketride-oss-v1-3-0-2026",
       "title": "![RocketRide](assets/rocketride.svg) RocketRide OSS v1.3.0",
       "body": "The **v1.3.0** release adds scheduled pipeline deployments, a faster vision suite, and new nodes for DeepL, Daytona, FalkorDB, Mem0, and more. Update the VS Code extension to get it.",
       "priority": "info",
       "valid_from": "2026-07-07T00:00:00Z",
-      "valid_until": "2026-08-07T23:59:59Z",
+      "valid_until": "2026-07-17T23:59:59Z",
       "link": "https://github.com/rocketride-org/rocketride-server/releases/tag/vscode-v1.3.0",
       "dismissable": true
     }
