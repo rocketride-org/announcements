@@ -20,16 +20,6 @@
       "dismissable": true
     },
     {
-      "id": "hackwithbay-3-sf-2026",
-      "title": "![Hackathon](assets/trophy.svg) HackwithBay 3.0 - SF",
-      "body": "8-hour hackathon on **Thoughtful Agents for Productivity** at **AWS Builder Loft, SF** on July 7, 2026. Sponsored by RocketRide.",
-      "priority": "info",
-      "valid_from": "2026-07-02T00:00:00Z",
-      "valid_until": "2026-07-08T06:59:59Z",
-      "link": "https://luma.com/sv61aqlg?tk=3n8mvg",
-      "dismissable": true
-    },
-    {
       "id": "hackwithseattle-2026",
       "title": "![Hackathon](assets/trophy.svg) HackwithSeattle 2.0",
       "body": "8-hour hackathon at the **AWS Skill Center, Seattle** on July 17, 2026. Hack, get mentorship, and demo your project to industry leaders.",
@@ -37,6 +27,36 @@
       "valid_from": "2026-07-02T00:00:00Z",
       "valid_until": "2026-07-18T06:59:59Z",
       "link": "https://luma.com/6u7f4gen",
+      "dismissable": true
+    },
+    {
+      "id": "agents-you-love-2-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) Agents You Love 2.0 - SF",
+      "body": "8-hour hackathon to **build AI agents people actually want to use** in **San Francisco** on July 28, 2026. RocketRide × HydraDB.",
+      "priority": "info",
+      "valid_from": "2026-07-09T00:00:00Z",
+      "valid_until": "2026-07-29T06:59:59Z",
+      "link": "https://luma.com/8lez4n99?tk=MNPOMy",
+      "dismissable": true
+    },
+    {
+      "id": "memory-meets-motion-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) Memory Meets Motion - SF",
+      "body": "8-hour hackathon on **long-term AI memory and autonomous agents** in **San Francisco** on July 30, 2026. RocketRide × FalkorDB.",
+      "priority": "info",
+      "valid_from": "2026-07-09T00:00:00Z",
+      "valid_until": "2026-07-31T06:59:59Z",
+      "link": "https://luma.com/iu9svaun",
+      "dismissable": true
+    },
+    {
+      "id": "build-fast-launch-loud-palo-alto-2026",
+      "title": "![Hackathon](assets/trophy.svg) Build Fast. Launch Loud. - Palo Alto",
+      "body": "One-day **Prompt Driven Development** hackathon at **Venture Dock, Palo Alto** on July 25, 2026. Co-sponsored by RocketRide.",
+      "priority": "info",
+      "valid_from": "2026-07-09T00:00:00Z",
+      "valid_until": "2026-07-26T06:59:59Z",
+      "link": "https://luma.com/1c8vmqyr",
       "dismissable": true
     },
     {
@@ -110,12 +130,22 @@
       "dismissable": true
     },
     {
+      "id": "demo-multilingual-highlights-2026",
+      "title": "![Watch](assets/video.svg) Demo: Multilingual Match Highlights",
+      "body": "**Charlie Gillet** turns match-commentary clips in any language into clean English highlights on RocketRide Cloud. Watch the build.",
+      "priority": "info",
+      "valid_from": "2026-07-10T00:00:00Z",
+      "valid_until": "2026-07-24T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=rxwGg_k7Pws",
+      "dismissable": true
+    },
+    {
       "id": "rocketride-oss-v1-3-0-2026",
       "title": "![RocketRide](assets/rocketride.svg) RocketRide OSS v1.3.0",
       "body": "The **v1.3.0** release adds scheduled pipeline deployments, a faster vision suite, and new nodes for DeepL, Daytona, FalkorDB, Mem0, and more. Update the VS Code extension to get it.",
       "priority": "info",
       "valid_from": "2026-07-07T00:00:00Z",
-      "valid_until": "2026-08-07T23:59:59Z",
+      "valid_until": "2026-07-17T23:59:59Z",
       "link": "https://github.com/rocketride-org/rocketride-server/releases/tag/vscode-v1.3.0",
       "dismissable": true
     }
