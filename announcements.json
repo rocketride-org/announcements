@@ -140,6 +140,16 @@
       "dismissable": true
     },
     {
+      "id": "demo-ai-support-bot-2026",
+      "title": "![Watch](assets/video.svg) Demo: AI Support Bot From Your Docs",
+      "body": "**Mithilesh** builds a RAG support bot on RocketRide Cloud that answers from your own docs and ships to a live, shareable endpoint. Watch the build.",
+      "priority": "info",
+      "valid_from": "2026-07-17T00:00:00Z",
+      "valid_until": "2026-07-31T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=vaV7_isrA7Y",
+      "dismissable": true
+    },
+    {
       "id": "rocketride-oss-v1-3-0-2026",
       "title": "![RocketRide](assets/rocketride.svg) RocketRide OSS v1.3.0",
       "body": "The **v1.3.0** release adds scheduled pipeline deployments, a faster vision suite, and new nodes for DeepL, Daytona, FalkorDB, Mem0, and more. Update the VS Code extension to get it.",
