@@ -11,6 +11,25 @@
       "dismissable": true
     },
     {
+      "id": "rocketride-cloud-starter-plan-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide Cloud Starter Plan: $5/mo",
+      "body": "The new **Starter plan** puts RocketRide Cloud at **$5/month** with 500 tokens included, then $0.03/token as you scale. Design in VS Code, hit deploy, and run your pipeline on a live, API-callable endpoint.",
+      "priority": "info",
+      "valid_from": "2026-07-17T00:00:00Z",
+      "link": "https://cloud.rocketride.ai/",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-5k-stars-10k-downloads-2026",
+      "title": "![RocketRide](assets/rocketride.svg) 5,000 Stars and 10,000 Downloads",
+      "body": "RocketRide just crossed **5,000 GitHub stars** and **10,000 downloads**, thanks to everyone building with us. Star the repo and come build something.",
+      "priority": "info",
+      "valid_from": "2026-07-17T00:00:00Z",
+      "valid_until": "2026-08-14T23:59:59Z",
+      "link": "https://github.com/rocketride-org/rocketride-server",
+      "dismissable": true
+    },
+    {
       "id": "rocketride-discord-community-2026",
       "title": "![Discord](assets/discord.svg) Join our Discord",
       "body": "Connect with the RocketRide team and builders on **Discord**.",
@@ -137,6 +156,16 @@
       "valid_from": "2026-07-10T00:00:00Z",
       "valid_until": "2026-07-24T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=rxwGg_k7Pws",
+      "dismissable": true
+    },
+    {
+      "id": "demo-ai-support-bot-2026",
+      "title": "![Watch](assets/video.svg) Demo: AI Support Bot From Your Docs",
+      "body": "**Mithilesh** builds a RAG support bot on RocketRide Cloud that answers from your own docs and ships to a live, shareable endpoint. Watch the build.",
+      "priority": "info",
+      "valid_from": "2026-07-17T00:00:00Z",
+      "valid_until": "2026-07-31T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=vaV7_isrA7Y",
       "dismissable": true
     },
     {
