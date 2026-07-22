@@ -11,6 +11,15 @@
       "dismissable": true
     },
     {
+      "id": "rocketride-cloud-starter-plan-2026",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide Cloud Starter Plan: $5/mo",
+      "body": "The new **Starter plan** puts RocketRide Cloud at **$5/month** with 500 tokens included, then $0.03/token as you scale. Design in VS Code, hit deploy, and run your pipeline on a live, API-callable endpoint.",
+      "priority": "info",
+      "valid_from": "2026-07-17T00:00:00Z",
+      "link": "https://cloud.rocketride.ai/",
+      "dismissable": true
+    },
+    {
       "id": "rocketride-discord-community-2026",
       "title": "![Discord](assets/discord.svg) Join our Discord",
       "body": "Connect with the RocketRide team and builders on **Discord**.",
