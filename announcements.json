@@ -20,6 +20,16 @@
       "dismissable": true
     },
     {
+      "id": "rocketride-5k-stars-10k-downloads-2026",
+      "title": "![RocketRide](assets/rocketride.svg) 5,000 Stars and 10,000 Downloads",
+      "body": "RocketRide just crossed **5,000 GitHub stars** and **10,000 downloads**, thanks to everyone building with us. Star the repo and come build something.",
+      "priority": "info",
+      "valid_from": "2026-07-17T00:00:00Z",
+      "valid_until": "2026-08-14T23:59:59Z",
+      "link": "https://github.com/rocketride-org/rocketride-server",
+      "dismissable": true
+    },
+    {
       "id": "rocketride-discord-community-2026",
       "title": "![Discord](assets/discord.svg) Join our Discord",
       "body": "Connect with the RocketRide team and builders on **Discord**.",
