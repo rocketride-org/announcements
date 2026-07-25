@@ -12,7 +12,7 @@
     },
     {
       "id": "rocketride-cloud-starter-plan-2026",
-      "title": "![RocketRide](assets/rocketride.svg) RocketRide Cloud Starter Plan: $5/mo",
+      "title": "![RocketRide](assets/rocketride.svg) Introducing the RocketRide Cloud Starter Plan, From $5/mo",
       "body": "The new **Starter plan** puts RocketRide Cloud at **$5/month** with 500 tokens included, then $0.03/token as you scale. Design in VS Code, hit deploy, and run your pipeline on a live, API-callable endpoint.",
       "priority": "info",
       "valid_from": "2026-07-17T00:00:00Z",
