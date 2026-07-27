@@ -12,7 +12,7 @@
     },
     {
       "id": "rocketride-cloud-starter-plan-2026",
-      "title": "![RocketRide](assets/rocketride.svg) RocketRide Cloud Starter Plan: $5/mo",
+      "title": "![RocketRide](assets/rocketride.svg) Introducing the RocketRide Cloud Starter Plan, From $5/mo",
       "body": "The new **Starter plan** puts RocketRide Cloud at **$5/month** with 500 tokens included, then $0.03/token as you scale. Design in VS Code, hit deploy, and run your pipeline on a live, API-callable endpoint.",
       "priority": "info",
       "valid_from": "2026-07-17T00:00:00Z",
@@ -39,6 +39,16 @@
       "dismissable": true
     },
     {
+      "id": "rocketride-office-hours-2026-07-28",
+      "title": "![Discord](assets/discord.svg) Office Hours: Tuesday, July 28 on Discord",
+      "body": "Join **RocketRide Office Hours** on **Tuesday, July 28 at 10:00 AM PT**, live on Discord, for a hot-take debate on whether companies are wrong to stop hiring juniors. Expect a live Cloud demo, a chat poll, and an open floor for your projects and questions.",
+      "priority": "info",
+      "valid_from": "2026-07-17T00:00:00Z",
+      "valid_until": "2026-07-29T06:59:59Z",
+      "link": "https://discord.gg/PMXrtenMsY",
+      "dismissable": true
+    },
+    {
       "id": "hackwithseattle-2026",
       "title": "![Hackathon](assets/trophy.svg) HackwithSeattle 2.0",
       "body": "8-hour hackathon at the **AWS Skill Center, Seattle** on July 17, 2026. Hack, get mentorship, and demo your project to industry leaders.",
@@ -61,10 +71,10 @@
     {
       "id": "memory-meets-motion-sf-2026",
       "title": "![Hackathon](assets/trophy.svg) Memory Meets Motion - SF",
-      "body": "8-hour hackathon on **long-term AI memory and autonomous agents** in **San Francisco** on July 30, 2026. RocketRide × FalkorDB.",
+      "body": "8-hour hackathon on **long-term AI memory and autonomous agents** in **San Francisco** on August 3, 2026. RocketRide × FalkorDB.",
       "priority": "info",
       "valid_from": "2026-07-09T00:00:00Z",
-      "valid_until": "2026-07-31T06:59:59Z",
+      "valid_until": "2026-08-04T06:59:59Z",
       "link": "https://luma.com/iu9svaun",
       "dismissable": true
     },
