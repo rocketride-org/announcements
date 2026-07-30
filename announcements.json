@@ -79,6 +79,36 @@
       "dismissable": true
     },
     {
+      "id": "demo-multilingual-highlights-2026",
+      "title": "![Watch](assets/video.svg) Demo: Multilingual Match Highlights",
+      "body": "**Charlie Gillet** turns match-commentary clips in any language into clean English highlights on RocketRide Cloud. Watch the build.",
+      "priority": "info",
+      "valid_from": "2026-07-10T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=rxwGg_k7Pws",
+      "dismissable": true
+    },
+    {
+      "id": "demo-fitcheck-2026",
+      "title": "![Watch](assets/video.svg) Community Demo: FitCheck",
+      "body": "See **FitCheck**, a community-built app running on RocketRide, in action. Watch the demo.",
+      "priority": "info",
+      "valid_from": "2026-07-02T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=xJh3skeQsOY",
+      "dismissable": true
+    },
+    {
+      "id": "demo-meeting-recap-2026",
+      "title": "![Watch](assets/video.svg) Demo: Meeting Recap That Writes Itself",
+      "body": "A no-code RocketRide agent turns a meeting transcript into an executive summary and follow-up email in under 3 minutes. Watch the demo.",
+      "priority": "info",
+      "valid_from": "2026-07-16T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=xF2Npx2iewo",
+      "dismissable": true
+    },
+    {
       "id": "demo-ai-support-bot-2026",
       "title": "![Watch](assets/video.svg) Demo: AI Support Bot From Your Docs",
       "body": "**Mithilesh** builds a RAG support bot on RocketRide Cloud that answers from your own docs and ships to a live, shareable endpoint. Watch the build.",
