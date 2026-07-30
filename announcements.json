@@ -39,33 +39,13 @@
       "dismissable": true
     },
     {
-      "id": "rocketride-office-hours-2026-07-28",
-      "title": "![Discord](assets/discord.svg) Office Hours: Tuesday, July 28 on Discord",
-      "body": "Join **RocketRide Office Hours** on **Tuesday, July 28 at 10:00 AM PT**, live on Discord, for a hot-take debate on whether companies are wrong to stop hiring juniors. Expect a live Cloud demo, a chat poll, and an open floor for your projects and questions.",
+      "id": "rocketride-inside-engine-room-2026-08-05",
+      "title": "![RocketRide](assets/rocketride.svg) Inside the Engine Room, Live with Rod Christensen",
+      "body": "**Rod Christensen**, Co-Founder and Chief Architect, goes live on **Wednesday, August 5 at 11:00 AM PT** to build production AI infrastructure on RocketRide Cloud: the deployment flow, a DVR for your pipelines, and a first look at the App Store. Join on Discord and bring your questions.",
       "priority": "info",
       "valid_from": "2026-07-17T00:00:00Z",
-      "valid_until": "2026-07-29T06:59:59Z",
-      "link": "https://discord.gg/PMXrtenMsY",
-      "dismissable": true
-    },
-    {
-      "id": "hackwithseattle-2026",
-      "title": "![Hackathon](assets/trophy.svg) HackwithSeattle 2.0",
-      "body": "8-hour hackathon at the **AWS Skill Center, Seattle** on July 17, 2026. Hack, get mentorship, and demo your project to industry leaders.",
-      "priority": "info",
-      "valid_from": "2026-07-02T00:00:00Z",
-      "valid_until": "2026-07-18T06:59:59Z",
-      "link": "https://luma.com/6u7f4gen",
-      "dismissable": true
-    },
-    {
-      "id": "agents-you-love-2-sf-2026",
-      "title": "![Hackathon](assets/trophy.svg) Agents You Love 2.0 - SF",
-      "body": "8-hour hackathon to **build AI agents people actually want to use** in **San Francisco** on July 28, 2026. RocketRide × HydraDB.",
-      "priority": "info",
-      "valid_from": "2026-07-09T00:00:00Z",
-      "valid_until": "2026-07-29T06:59:59Z",
-      "link": "https://luma.com/8lez4n99?tk=MNPOMy",
+      "valid_until": "2026-08-06T06:59:59Z",
+      "link": "https://discord.gg/Wwx8XUU28",
       "dismissable": true
     },
     {
@@ -76,16 +56,6 @@
       "valid_from": "2026-07-09T00:00:00Z",
       "valid_until": "2026-08-04T06:59:59Z",
       "link": "https://luma.com/iu9svaun",
-      "dismissable": true
-    },
-    {
-      "id": "build-fast-launch-loud-palo-alto-2026",
-      "title": "![Hackathon](assets/trophy.svg) Build Fast. Launch Loud. - Palo Alto",
-      "body": "One-day **Prompt Driven Development** hackathon at **Venture Dock, Palo Alto** on July 25, 2026. Co-sponsored by RocketRide.",
-      "priority": "info",
-      "valid_from": "2026-07-09T00:00:00Z",
-      "valid_until": "2026-07-26T06:59:59Z",
-      "link": "https://luma.com/1c8vmqyr",
       "dismissable": true
     },
     {
@@ -109,66 +79,6 @@
       "dismissable": true
     },
     {
-      "id": "demo-compare-llms-2026",
-      "title": "![Watch](assets/video.svg) Demo: Compare LLMs Side by Side",
-      "body": "Watch **Josh** compare multiple LLMs in a single RocketRide pipeline, in real time. See the demo.",
-      "priority": "info",
-      "valid_from": "2026-07-02T00:00:00Z",
-      "valid_until": "2026-07-16T00:00:00Z",
-      "link": "https://www.youtube.com/watch?v=_P-Tx8DNZLk",
-      "dismissable": true
-    },
-    {
-      "id": "demo-fitcheck-2026",
-      "title": "![Watch](assets/video.svg) Community Demo: FitCheck",
-      "body": "See **FitCheck**, a community-built app running on RocketRide, in action. Watch the demo.",
-      "priority": "info",
-      "valid_from": "2026-07-02T00:00:00Z",
-      "valid_until": "2026-07-16T00:00:00Z",
-      "link": "https://www.youtube.com/watch?v=xJh3skeQsOY",
-      "dismissable": true
-    },
-    {
-      "id": "demo-pathfinder-2026",
-      "title": "![Watch](assets/video.svg) Community Demo: PathFinder",
-      "body": "**PathFinder**, a community-built RocketRide × **Neo4j** app, maps your skills from your current role to an AI-native target with a realistic timeline. Watch the demo.",
-      "priority": "info",
-      "valid_from": "2026-07-16T00:00:00Z",
-      "valid_until": "2026-07-30T00:00:00Z",
-      "link": "https://www.youtube.com/watch?v=zNKhgcmHTHs",
-      "dismissable": true
-    },
-    {
-      "id": "demo-realtime-llm-comparison-2026",
-      "title": "![Watch](assets/video.svg) Demo: Real-Time LLM Comparison",
-      "body": "Route one prompt to **Claude, GPT-5.2, Gemini 3 Pro, and Grok** side by side in a real-time RocketRide comparison pipeline. Watch the demo.",
-      "priority": "info",
-      "valid_from": "2026-07-16T00:00:00Z",
-      "valid_until": "2026-07-30T00:00:00Z",
-      "link": "https://www.youtube.com/watch?v=pq2eRW_0D0Q",
-      "dismissable": true
-    },
-    {
-      "id": "demo-meeting-recap-2026",
-      "title": "![Watch](assets/video.svg) Demo: Meeting Recap That Writes Itself",
-      "body": "A no-code RocketRide agent turns a meeting transcript into an executive summary and follow-up email in under 3 minutes. Watch the demo.",
-      "priority": "info",
-      "valid_from": "2026-07-16T00:00:00Z",
-      "valid_until": "2026-07-30T00:00:00Z",
-      "link": "https://www.youtube.com/watch?v=xF2Npx2iewo",
-      "dismissable": true
-    },
-    {
-      "id": "demo-multilingual-highlights-2026",
-      "title": "![Watch](assets/video.svg) Demo: Multilingual Match Highlights",
-      "body": "**Charlie Gillet** turns match-commentary clips in any language into clean English highlights on RocketRide Cloud. Watch the build.",
-      "priority": "info",
-      "valid_from": "2026-07-10T00:00:00Z",
-      "valid_until": "2026-07-24T23:59:59Z",
-      "link": "https://www.youtube.com/watch?v=rxwGg_k7Pws",
-      "dismissable": true
-    },
-    {
       "id": "demo-ai-support-bot-2026",
       "title": "![Watch](assets/video.svg) Demo: AI Support Bot From Your Docs",
       "body": "**Mithilesh** builds a RAG support bot on RocketRide Cloud that answers from your own docs and ships to a live, shareable endpoint. Watch the build.",
@@ -176,16 +86,6 @@
       "valid_from": "2026-07-17T00:00:00Z",
       "valid_until": "2026-07-31T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=vaV7_isrA7Y",
-      "dismissable": true
-    },
-    {
-      "id": "rocketride-oss-v1-3-0-2026",
-      "title": "![RocketRide](assets/rocketride.svg) RocketRide OSS v1.3.0",
-      "body": "The **v1.3.0** release adds scheduled pipeline deployments, a faster vision suite, and new nodes for DeepL, Daytona, FalkorDB, Mem0, and more. Update the VS Code extension to get it.",
-      "priority": "info",
-      "valid_from": "2026-07-07T00:00:00Z",
-      "valid_until": "2026-07-17T23:59:59Z",
-      "link": "https://github.com/rocketride-org/rocketride-server/releases/tag/vscode-v1.3.0",
       "dismissable": true
     }
   ]
