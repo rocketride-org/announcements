@@ -49,6 +49,16 @@
       "dismissable": true
     },
     {
+      "id": "rocketride-inside-engine-room-2026-08-05",
+      "title": "![Discord](assets/discord.svg) Inside the Engine Room, Live with Rod Christensen",
+      "body": "**Rod Christensen**, Co-Founder and Chief Architect, goes live on **Wednesday, August 5 at 11:00 AM PT** to build production AI infrastructure on RocketRide Cloud: the deployment flow, a DVR for your pipelines, and a first look at the App Store. Join on Discord and bring your questions.",
+      "priority": "info",
+      "valid_from": "2026-07-17T00:00:00Z",
+      "valid_until": "2026-08-06T06:59:59Z",
+      "link": "https://discord.gg/Wwx8XUU28",
+      "dismissable": true
+    },
+    {
       "id": "hackwithseattle-2026",
       "title": "![Hackathon](assets/trophy.svg) HackwithSeattle 2.0",
       "body": "8-hour hackathon at the **AWS Skill Center, Seattle** on July 17, 2026. Hack, get mentorship, and demo your project to industry leaders.",
