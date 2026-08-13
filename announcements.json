@@ -61,7 +61,7 @@
     {
       "id": "sf-enterprise-hackathon-2026",
       "title": "![Hackathon](assets/trophy.svg) SF Enterprise Hackathon",
-      "body": "One-day **enterprise AI** hackathon at **AWS Builder Loft, San Francisco** on August 14, 2026. Sponsored by RocketRide, with free Cloud credits and a prize for the best pipeline shipped on RocketRide Cloud.",
+      "body": "One-day **enterprise AI** hackathon at **AWS Builder Loft, San Francisco** on August 14, 2026. Sponsored by RocketRide, with free Cloud credits for participants.",
       "priority": "info",
       "valid_from": "2026-07-30T00:00:00Z",
       "valid_until": "2026-08-15T06:59:59Z",
@@ -116,6 +116,36 @@
       "valid_from": "2026-07-16T00:00:00Z",
       "valid_until": "2026-08-13T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=xF2Npx2iewo",
+      "dismissable": true
+    },
+    {
+      "id": "demo-phone-calling-agent-2026",
+      "title": "![Watch](assets/video.svg) Demo: Build a Phone-Calling AI Agent",
+      "body": "Build a **phone-calling AI agent** from a blank canvas on RocketRide Cloud, start to finish. Watch the build.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=w_vj2A3KVrI",
+      "dismissable": true
+    },
+    {
+      "id": "demo-quickstart-first-pipeline-2026",
+      "title": "![Watch](assets/video.svg) Demo: Build and Deploy Your First AI Pipeline",
+      "body": "A full **quickstart** for building and deploying your first AI pipeline on RocketRide Cloud. Watch the walkthrough.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=bpoNvb8oOxY",
+      "dismissable": true
+    },
+    {
+      "id": "demo-builder-session-dvr-2026",
+      "title": "![Watch](assets/video.svg) Builder Session: A DVR for AI Pipelines",
+      "body": "**Rod Christensen** walks through a DVR for AI pipelines, one-click deploys, and free-to-run apps on RocketRide Cloud. Watch the session.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=M_MXCZjD98c",
       "dismissable": true
     },
     {
