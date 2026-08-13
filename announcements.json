@@ -20,9 +20,9 @@
       "dismissable": true
     },
     {
-      "id": "rocketride-5k-stars-10k-downloads-2026",
-      "title": "![RocketRide](assets/rocketride.svg) 5,000 Stars and 10,000 Downloads",
-      "body": "RocketRide just crossed **5,000 GitHub stars** and **10,000 downloads**, thanks to everyone building with us. Star the repo and come build something.",
+      "id": "rocketride-6k-stars-17k-downloads-2026",
+      "title": "![RocketRide](assets/rocketride.svg) 6,000 Stars and 17,000 Downloads",
+      "body": "RocketRide just crossed **6,000 GitHub stars** and **17,000 downloads**, thanks to everyone building with us. Star the repo and come build something.",
       "priority": "info",
       "valid_from": "2026-07-17T00:00:00Z",
       "valid_until": "2026-08-14T23:59:59Z",
@@ -56,6 +56,16 @@
       "valid_from": "2026-07-09T00:00:00Z",
       "valid_until": "2026-08-04T06:59:59Z",
       "link": "https://luma.com/iu9svaun",
+      "dismissable": true
+    },
+    {
+      "id": "sf-enterprise-hackathon-2026",
+      "title": "![Hackathon](assets/trophy.svg) SF Enterprise Hackathon",
+      "body": "One-day **enterprise AI** hackathon at **AWS Builder Loft, San Francisco** on August 14, 2026. Sponsored by RocketRide, with free Cloud credits for participants.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-08-15T06:59:59Z",
+      "link": "https://luma.com/ev9ndfke?tk=ow7jMP",
       "dismissable": true
     },
     {
@@ -106,6 +116,36 @@
       "valid_from": "2026-07-16T00:00:00Z",
       "valid_until": "2026-08-13T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=xF2Npx2iewo",
+      "dismissable": true
+    },
+    {
+      "id": "demo-phone-calling-agent-2026",
+      "title": "![Watch](assets/video.svg) Demo: Build a Phone-Calling AI Agent",
+      "body": "Build a **phone-calling AI agent** from a blank canvas on RocketRide Cloud, start to finish. Watch the build.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=w_vj2A3KVrI",
+      "dismissable": true
+    },
+    {
+      "id": "demo-quickstart-first-pipeline-2026",
+      "title": "![Watch](assets/video.svg) Demo: Build and Deploy Your First AI Pipeline",
+      "body": "A full **quickstart** for building and deploying your first AI pipeline on RocketRide Cloud. Watch the walkthrough.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=bpoNvb8oOxY",
+      "dismissable": true
+    },
+    {
+      "id": "demo-builder-session-dvr-2026",
+      "title": "![Watch](assets/video.svg) Builder Session: A DVR for AI Pipelines",
+      "body": "**Rod Christensen** walks through a DVR for AI pipelines, one-click deploys, and free-to-run apps on RocketRide Cloud. Watch the session.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-08-13T23:59:59Z",
+      "link": "https://www.youtube.com/watch?v=M_MXCZjD98c",
       "dismissable": true
     },
     {
