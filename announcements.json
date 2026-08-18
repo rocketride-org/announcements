@@ -25,7 +25,6 @@
       "body": "RocketRide just crossed **6,000 GitHub stars** and **17,000 downloads**, thanks to everyone building with us. Star the repo and come build something.",
       "priority": "info",
       "valid_from": "2026-07-17T00:00:00Z",
-      "valid_until": "2026-08-14T23:59:59Z",
       "link": "https://github.com/rocketride-org/rocketride-server",
       "dismissable": true
     },
@@ -35,16 +34,6 @@
       "body": "Connect with the RocketRide team and builders on **Discord**.",
       "priority": "info",
       "valid_from": "2026-06-22T00:00:00Z",
-      "link": "https://discord.gg/PMXrtenMsY",
-      "dismissable": true
-    },
-    {
-      "id": "rocketride-inside-engine-room-2026-08-05",
-      "title": "![RocketRide](assets/rocketride.svg) Inside the Engine Room, Live with Rod Christensen",
-      "body": "**Rod Christensen**, Co-Founder and Chief Architect, goes live on **Wednesday, August 5 at 11:00 AM PT** to build production AI infrastructure on RocketRide Cloud: the deployment flow, a DVR for your pipelines, and a first look at the App Store. Join on Discord and bring your questions.",
-      "priority": "info",
-      "valid_from": "2026-07-17T00:00:00Z",
-      "valid_until": "2026-08-06T06:59:59Z",
       "link": "https://discord.gg/PMXrtenMsY",
       "dismissable": true
     },
@@ -66,6 +55,16 @@
       "valid_from": "2026-07-30T00:00:00Z",
       "valid_until": "2026-08-15T06:59:59Z",
       "link": "https://luma.com/ev9ndfke?tk=ow7jMP",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-buildathon-india-2026",
+      "title": "![Hackathon](assets/trophy.svg) RocketRide Buildathon: From Idea to Million-Dollar App",
+      "body": "The **RocketRide Buildathon** comes to four Indian cities from **August 22 to 29**: Lucknow, Delhi, Hyderabad, and Mumbai. Take your idea from blank canvas to a million-dollar app with RocketRide Cloud and register now.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-08-30T06:59:59Z",
+      "link": "https://luma.com/RocketRide.ai",
       "dismissable": true
     },
     {
@@ -94,7 +93,6 @@
       "body": "**Charlie Gillet** turns match-commentary clips in any language into clean English highlights on RocketRide Cloud. Watch the build.",
       "priority": "info",
       "valid_from": "2026-07-10T00:00:00Z",
-      "valid_until": "2026-08-13T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=rxwGg_k7Pws",
       "dismissable": true
     },
@@ -104,7 +102,6 @@
       "body": "See **FitCheck**, a community-built app running on RocketRide, in action. Watch the demo.",
       "priority": "info",
       "valid_from": "2026-07-02T00:00:00Z",
-      "valid_until": "2026-08-13T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=xJh3skeQsOY",
       "dismissable": true
     },
@@ -124,7 +121,6 @@
       "body": "Build a **phone-calling AI agent** from a blank canvas on RocketRide Cloud, start to finish. Watch the build.",
       "priority": "info",
       "valid_from": "2026-07-30T00:00:00Z",
-      "valid_until": "2026-08-13T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=w_vj2A3KVrI",
       "dismissable": true
     },
@@ -134,7 +130,6 @@
       "body": "A full **quickstart** for building and deploying your first AI pipeline on RocketRide Cloud. Watch the walkthrough.",
       "priority": "info",
       "valid_from": "2026-07-30T00:00:00Z",
-      "valid_until": "2026-08-13T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=bpoNvb8oOxY",
       "dismissable": true
     },
@@ -144,7 +139,6 @@
       "body": "**Rod Christensen** walks through a DVR for AI pipelines, one-click deploys, and free-to-run apps on RocketRide Cloud. Watch the session.",
       "priority": "info",
       "valid_from": "2026-07-30T00:00:00Z",
-      "valid_until": "2026-08-13T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=M_MXCZjD98c",
       "dismissable": true
     },
@@ -154,7 +148,6 @@
       "body": "**Mithilesh** builds a RAG support bot on RocketRide Cloud that answers from your own docs and ships to a live, shareable endpoint. Watch the build.",
       "priority": "info",
       "valid_from": "2026-07-17T00:00:00Z",
-      "valid_until": "2026-07-31T23:59:59Z",
       "link": "https://www.youtube.com/watch?v=vaV7_isrA7Y",
       "dismissable": true
     }
