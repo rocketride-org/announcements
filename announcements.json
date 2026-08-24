@@ -68,6 +68,16 @@
       "dismissable": true
     },
     {
+      "id": "rocketride-scu-buildathon-2026",
+      "title": "![Hackathon](assets/trophy.svg) RocketRide × SCU Buildathon",
+      "body": "A week-long **online hackathon** with **Santa Clara University's AI Collaborate**, Aug 31 to Sep 6: build an AI pipeline that solves a real problem, publish it on RocketRide, and get it used. Open to any university; register now.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-09-07T06:59:59Z",
+      "link": "https://luma.com/8dsi5sz3",
+      "dismissable": true
+    },
+    {
       "id": "podcast-ide-command-center-2026",
       "title": "![Listen](assets/mic.svg) Podcast: The IDE as AI Command Center",
       "body": "**Joe Maionchi** on why your IDE is the new command center for building AI. Watch the episode.",
