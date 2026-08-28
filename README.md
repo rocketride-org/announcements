@@ -55,6 +55,15 @@ Hosting an announcement here means it shows up in every running extension within
 ## Operational notes
 
 - The fetch URL is `https://raw.githubusercontent.com/rocketride-org/announcements/main/announcements.json` — pinned to `main` branch.
-- Raw content is served via GitHub's CDN; updates propagate within ~5 minutes globally.
-- Extension cache TTL is 1 hour; users see new announcements within an hour of merge, sooner on extension restart.
+- Raw content is served via GitHub's CDN with a ~5 minute default TTL per IP; updates propagate globally within that window. Extension cache TTL is 1 hour on top, so users see new announcements within an hour of merge (sooner on extension restart).
 - No secrets, no auth, no infrastructure to maintain — by design.
+
+### Alternative fetch URL (if we ever need it)
+
+Raw GitHub serves the file with `Content-Type: text/plain` and has [documented occasional caching hiccups](https://github.com/orgs/community/discussions/169198). For our volume that's been a non-issue, but if we ever do hit problems the lowest-cost swap is jsDelivr, which is a CDN purpose-built for fronting GitHub repos:
+
+```
+https://cdn.jsdelivr.net/gh/rocketride-org/announcements@main/announcements.json
+```
+
+jsDelivr fixes the Content-Type (serves `application/json` correctly), offers a stable global CDN, and supports `@branch`, `@tag`, and `@commit-sha` pinning syntax. The swap is a one-line change in the extension fetch URL. Documenting it here as a known escape hatch.
