@@ -78,6 +78,36 @@
       "dismissable": true
     },
     {
+      "id": "data-ai-hackathon-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) Data & AI Hackathon - SF",
+      "body": "8-hour **data and AI** hackathon at **AWS Builder Loft, San Francisco** on September 11, 2026. Partnered with RocketRide, with free Cloud credits for participants.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-09-12T06:59:59Z",
+      "link": "https://luma.com/qisv9xmg",
+      "dismissable": true
+    },
+    {
+      "id": "sf-tech-week-zero-to-agent-2026",
+      "title": "![Build](assets/code-brackets.svg) SF Tech Week: Zero to Agent with Mansi More",
+      "body": "**Mansi More** leads a hands-on **SF Tech Week** workshop on **October 6**: build an agentic workflow from an empty project, with RocketRide shown as a real production example. Build alongside, not just watch.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-10-07T06:59:59Z",
+      "link": "https://partiful.com/e/ft7BW22Hhymf3rkqEZFJ",
+      "dismissable": true
+    },
+    {
+      "id": "la-tech-week-rocketride-build-2026",
+      "title": "![Build](assets/code-brackets.svg) LA Tech Week: Build an AI App on RocketRide",
+      "body": "**Joshua** runs a hands-on build session at **LA Tech Week** on **October 15**: go from a visual canvas to a deployed webhook-to-agent pipeline on RocketRide Cloud, no local setup. Join the workshop.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-10-16T06:59:59Z",
+      "link": "https://partiful.com/e/FOdvZaSs588qxH1ZAQOf",
+      "dismissable": true
+    },
+    {
       "id": "podcast-ide-command-center-2026",
       "title": "![Listen](assets/mic.svg) Podcast: The IDE as AI Command Center",
       "body": "**Joe Maionchi** on why your IDE is the new command center for building AI. Watch the episode.",
