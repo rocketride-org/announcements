@@ -20,9 +20,9 @@
       "dismissable": true
     },
     {
-      "id": "rocketride-6k-stars-17k-downloads-2026",
-      "title": "![RocketRide](assets/rocketride.svg) 6,000 Stars and 17,000 Downloads",
-      "body": "RocketRide just crossed **6,000 GitHub stars** and **17,000 downloads**, thanks to everyone building with us. Star the repo and come build something.",
+      "id": "rocketride-7k-stars-19k-downloads-2026",
+      "title": "![RocketRide](assets/rocketride.svg) 7,000 Stars and 19,000 Downloads",
+      "body": "RocketRide just crossed **7,000 GitHub stars** and **19,000 downloads**, thanks to everyone building with us. Star the repo and come build something.",
       "priority": "info",
       "valid_from": "2026-07-17T00:00:00Z",
       "link": "https://github.com/rocketride-org/rocketride-server",
@@ -65,6 +65,46 @@
       "valid_from": "2026-07-30T00:00:00Z",
       "valid_until": "2026-08-30T06:59:59Z",
       "link": "https://luma.com/RocketRide.ai",
+      "dismissable": true
+    },
+    {
+      "id": "rocketride-scu-buildathon-2026",
+      "title": "![Hackathon](assets/trophy.svg) RocketRide × SCU Buildathon",
+      "body": "A week-long **online hackathon** with **Santa Clara University's AI Collaborate**, Aug 31 to Sep 6: build an AI pipeline that solves a real problem, publish it on RocketRide, and get it used. Open to any university; register now.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-09-07T06:59:59Z",
+      "link": "https://luma.com/8dsi5sz3",
+      "dismissable": true
+    },
+    {
+      "id": "data-ai-hackathon-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) Data & AI Hackathon - SF",
+      "body": "8-hour **data and AI** hackathon at **AWS Builder Loft, San Francisco** on September 11, 2026. Partnered with RocketRide, with free Cloud credits for participants.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-09-12T06:59:59Z",
+      "link": "https://luma.com/qisv9xmg",
+      "dismissable": true
+    },
+    {
+      "id": "sf-tech-week-zero-to-agent-2026",
+      "title": "![Build](assets/code-brackets.svg) SF Tech Week: Zero to Agent with Mansi More",
+      "body": "**Mansi More** leads a hands-on **SF Tech Week** workshop on **October 6**: build an agentic workflow from an empty project, with RocketRide shown as a real production example. Build alongside, not just watch.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-10-07T06:59:59Z",
+      "link": "https://partiful.com/e/ft7BW22Hhymf3rkqEZFJ",
+      "dismissable": true
+    },
+    {
+      "id": "la-tech-week-rocketride-build-2026",
+      "title": "![Build](assets/code-brackets.svg) LA Tech Week: Build an AI App on RocketRide",
+      "body": "**Joshua** runs a hands-on build session at **LA Tech Week** on **October 15**: go from a visual canvas to a deployed webhook-to-agent pipeline on RocketRide Cloud, no local setup. Join the workshop.",
+      "priority": "info",
+      "valid_from": "2026-07-30T00:00:00Z",
+      "valid_until": "2026-10-16T06:59:59Z",
+      "link": "https://partiful.com/e/FOdvZaSs588qxH1ZAQOf",
       "dismissable": true
     },
     {
