@@ -108,6 +108,45 @@
       "dismissable": true
     },
     {
+      "id": "rocketride-office-hours-series-2026",
+      "title": "![Discord](assets/discord.svg) RocketRide Office Hours",
+      "body": "Join **RocketRide Office Hours**, a fortnightly technical session on building and running AI pipelines, live on Discord with screen-sharing and Q&A. Register for the next session.",
+      "priority": "info",
+      "valid_from": "2026-08-15T00:00:00Z",
+      "link": "https://luma.com/rocket-1rdt",
+      "dismissable": true
+    },
+    {
+      "id": "sf-ai-summit-2026",
+      "title": "![Event](assets/trophy.svg) SF AI Summit",
+      "body": "A full-day **SF AI Summit** in **San Francisco** on **October 21, 2026**: founders, engineers, researchers, and investors across AI, in one room. Register now.",
+      "priority": "info",
+      "valid_from": "2026-08-15T00:00:00Z",
+      "valid_until": "2026-10-22T06:59:59Z",
+      "link": "https://luma.com/cj3syxqz",
+      "dismissable": true
+    },
+    {
+      "id": "hackwithbay-4-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) HackwithBay 4.0",
+      "body": "8-hour hackathon on **Thoughtful Agents for Productivity** at **AWS Builder Loft, San Francisco** on **November 24, 2026**. Build, compete for prizes, and demo to industry leaders.",
+      "priority": "info",
+      "valid_from": "2026-08-15T00:00:00Z",
+      "valid_until": "2026-11-25T06:59:59Z",
+      "link": "https://luma.com/x05cmrqh",
+      "dismissable": true
+    },
+    {
+      "id": "ai-demo-night-sf-2026",
+      "title": "![Event](assets/trophy.svg) AI Demo Night",
+      "body": "**AI Demo Night** at **AWS Builder Loft, San Francisco** on **December 4, 2026**: live product showcases from founders and AI builders, plus networking. Register now.",
+      "priority": "info",
+      "valid_from": "2026-08-15T00:00:00Z",
+      "valid_until": "2026-12-05T06:59:59Z",
+      "link": "https://luma.com/dwl3gurk",
+      "dismissable": true
+    },
+    {
       "id": "podcast-ide-command-center-2026",
       "title": "![Listen](assets/mic.svg) Podcast: The IDE as AI Command Center",
       "body": "**Joe Maionchi** on why your IDE is the new command center for building AI. Watch the episode.",
