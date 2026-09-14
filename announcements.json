@@ -20,15 +20,6 @@
       "dismissable": true
     },
     {
-      "id": "rocketride-7k-stars-19k-downloads-2026",
-      "title": "![RocketRide](assets/rocketride.svg) 7,000 Stars and 19,000 Downloads",
-      "body": "RocketRide just crossed **7,000 GitHub stars** and **19,000 downloads**, thanks to everyone building with us. Star the repo and come build something.",
-      "priority": "info",
-      "valid_from": "2026-07-17T00:00:00Z",
-      "link": "https://github.com/rocketride-org/rocketride-server",
-      "dismissable": true
-    },
-    {
       "id": "rocketride-discord-community-2026",
       "title": "![Discord](assets/discord.svg) Join our Discord",
       "body": "Connect with the RocketRide team and builders on **Discord**.",
@@ -89,8 +80,8 @@
     },
     {
       "id": "sf-tech-week-zero-to-agent-2026",
-      "title": "![Build](assets/code-brackets.svg) SF Tech Week: Zero to Agent with Mansi More",
-      "body": "**Mansi More** leads a hands-on **SF Tech Week** workshop on **October 6**: build an agentic workflow from an empty project, with RocketRide shown as a real production example. Build alongside, not just watch.",
+      "title": "![Build](assets/code-brackets.svg) SF Tech Week: Zero to Agent",
+      "body": "A hands-on **SF Tech Week** workshop on **October 6**: build an agentic workflow from an empty project, with RocketRide shown as a real production example. Build alongside, not just watch.",
       "priority": "info",
       "valid_from": "2026-07-30T00:00:00Z",
       "valid_until": "2026-10-07T06:59:59Z",
@@ -100,7 +91,7 @@
     {
       "id": "la-tech-week-rocketride-build-2026",
       "title": "![Build](assets/code-brackets.svg) LA Tech Week: Build an AI App on RocketRide",
-      "body": "**Joshua** runs a hands-on build session at **LA Tech Week** on **October 15**: go from a visual canvas to a deployed webhook-to-agent pipeline on RocketRide Cloud, no local setup. Join the workshop.",
+      "body": "A hands-on build session at **LA Tech Week** on **October 15**: go from a visual canvas to a deployed webhook-to-agent pipeline on RocketRide Cloud, no local setup. Join the workshop.",
       "priority": "info",
       "valid_from": "2026-07-30T00:00:00Z",
       "valid_until": "2026-10-16T06:59:59Z",
@@ -110,7 +101,7 @@
     {
       "id": "sf-tech-week-meta-harness-2026",
       "title": "![Build](assets/code-brackets.svg) SF Tech Week: Build an AI App on RocketRide",
-      "body": "**Joshua** runs a hands-on build session at **SF Tech Week** on **October 9**: go from a visual canvas to a deployed webhook-to-agent pipeline on RocketRide Cloud, no local setup. Join the workshop.",
+      "body": "A hands-on build session at **SF Tech Week** on **October 9**: go from a visual canvas to a deployed webhook-to-agent pipeline on RocketRide Cloud, no local setup. Join the workshop.",
       "priority": "info",
       "valid_from": "2026-08-15T00:00:00Z",
       "valid_until": "2026-10-10T06:59:59Z",
@@ -119,8 +110,8 @@
     },
     {
       "id": "la-tech-week-zero-to-agent-2026",
-      "title": "![Build](assets/code-brackets.svg) LA Tech Week: Zero to Agent with Mansi More",
-      "body": "**Mansi More** leads a hands-on **LA Tech Week** workshop on **October 16**: build and deploy an agent pipeline to the cloud on RocketRide Cloud in an hour, no local setup. Build alongside, not just watch.",
+      "title": "![Build](assets/code-brackets.svg) LA Tech Week: Zero to Agent",
+      "body": "A hands-on **LA Tech Week** workshop on **October 16**: build and deploy an agent pipeline to the cloud on RocketRide Cloud in an hour, no local setup. Build alongside, not just watch.",
       "priority": "info",
       "valid_from": "2026-08-15T00:00:00Z",
       "valid_until": "2026-10-17T06:59:59Z",
@@ -128,12 +119,23 @@
       "dismissable": true
     },
     {
-      "id": "rocketride-office-hours-series-2026",
-      "title": "![Discord](assets/discord.svg) RocketRide Office Hours",
-      "body": "Join **RocketRide Office Hours**, a fortnightly technical session on building and running AI pipelines, live on Discord with screen-sharing and Q&A. Register for the next session.",
+      "id": "sf-tech-week-builders-bosses-beers-2026",
+      "title": "![Event](assets/trophy.svg) SF Tech Week: Builders x Bosses x Beers",
+      "body": "An invite-only **SF Tech Week** social at **Club 345, San Francisco** on **October 5**, with talks from teams shipping AI in production. Hosted by RocketRide; register to join.",
       "priority": "info",
       "valid_from": "2026-08-15T00:00:00Z",
-      "link": "https://luma.com/rocket-1rdt",
+      "valid_until": "2026-10-06T06:59:59Z",
+      "link": "https://luma.com/rocket-k2ds",
+      "dismissable": true
+    },
+    {
+      "id": "learning-layer-paper-club-wk32-2026",
+      "title": "![Event](assets/trophy.svg) Learning Layer Paper Reading Club (Wk 32)",
+      "body": "The **Learning Layer Paper Reading Club** meets at **RocketRide, San Francisco** on **September 15** to discuss Aspire: can models self-evolve from vague goals? Join the discussion.",
+      "priority": "info",
+      "valid_from": "2026-08-15T00:00:00Z",
+      "valid_until": "2026-09-16T06:59:59Z",
+      "link": "https://luma.com/learning-t4fe",
       "dismissable": true
     },
     {
@@ -230,15 +232,6 @@
       "priority": "info",
       "valid_from": "2026-07-30T00:00:00Z",
       "link": "https://www.youtube.com/watch?v=bpoNvb8oOxY",
-      "dismissable": true
-    },
-    {
-      "id": "demo-builder-session-dvr-2026",
-      "title": "![Watch](assets/video.svg) Builder Session: A DVR for AI Pipelines",
-      "body": "**Rod Christensen** walks through a DVR for AI pipelines, one-click deploys, and free-to-run apps on RocketRide Cloud. Watch the session.",
-      "priority": "info",
-      "valid_from": "2026-07-30T00:00:00Z",
-      "link": "https://www.youtube.com/watch?v=M_MXCZjD98c",
       "dismissable": true
     },
     {
