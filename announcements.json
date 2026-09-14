@@ -139,6 +139,16 @@
       "dismissable": true
     },
     {
+      "id": "rocketride-office-hours-multiagent-2026",
+      "title": "![Discord](assets/discord.svg) RocketRide Office Hours: Multi-Agent Systems",
+      "body": "The next **RocketRide Office Hours** digs into **multi-agent AI systems**: are the performance gains real, and how should you spawn subagents? Live on Discord; register to join.",
+      "priority": "info",
+      "valid_from": "2026-08-15T00:00:00Z",
+      "valid_until": "2026-09-30T06:59:59Z",
+      "link": "https://luma.com/9jlrm0m3",
+      "dismissable": true
+    },
+    {
       "id": "sf-ai-summit-2026",
       "title": "![Event](assets/trophy.svg) SF AI Summit",
       "body": "A full-day **SF AI Summit** in **San Francisco** on **October 21, 2026**: founders, engineers, researchers, and investors across AI, in one room. Register now.",
