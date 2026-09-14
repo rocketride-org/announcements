@@ -108,6 +108,26 @@
       "dismissable": true
     },
     {
+      "id": "sf-tech-week-meta-harness-2026",
+      "title": "![Build](assets/code-brackets.svg) SF Tech Week: Build an AI App on RocketRide",
+      "body": "**Joshua** runs a hands-on build session at **SF Tech Week** on **October 9**: go from a visual canvas to a deployed webhook-to-agent pipeline on RocketRide Cloud, no local setup. Join the workshop.",
+      "priority": "info",
+      "valid_from": "2026-08-15T00:00:00Z",
+      "valid_until": "2026-10-10T06:59:59Z",
+      "link": "https://partiful.com/e/82JAXHWLBEbjD0RJt88l",
+      "dismissable": true
+    },
+    {
+      "id": "la-tech-week-zero-to-agent-2026",
+      "title": "![Build](assets/code-brackets.svg) LA Tech Week: Zero to Agent with Mansi More",
+      "body": "**Mansi More** leads a hands-on **LA Tech Week** workshop on **October 16**: build and deploy an agent pipeline to the cloud on RocketRide Cloud in an hour, no local setup. Build alongside, not just watch.",
+      "priority": "info",
+      "valid_from": "2026-08-15T00:00:00Z",
+      "valid_until": "2026-10-17T06:59:59Z",
+      "link": "https://partiful.com/e/LQCTbBbpdezKkknJbmM6",
+      "dismissable": true
+    },
+    {
       "id": "rocketride-office-hours-series-2026",
       "title": "![Discord](assets/discord.svg) RocketRide Office Hours",
       "body": "Join **RocketRide Office Hours**, a fortnightly technical session on building and running AI pipelines, live on Discord with screen-sharing and Q&A. Register for the next session.",
