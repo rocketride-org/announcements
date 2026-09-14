@@ -140,11 +140,11 @@
     },
     {
       "id": "rocketride-office-hours-multiagent-2026",
-      "title": "![Discord](assets/discord.svg) RocketRide Office Hours: Multi-Agent Systems",
-      "body": "The next **RocketRide Office Hours** digs into **multi-agent AI systems**: are the performance gains real, and how should you spawn subagents? Live on Discord; register to join.",
+      "title": "![RocketRide](assets/rocketride.svg) RocketRide Office Hours: Multi-Agent Systems",
+      "body": "The next **RocketRide Office Hours** digs into **multi-agent AI systems** on **September 23 at 10:00 AM PT**: are the performance gains real, and how should you spawn subagents? Live on Discord; register to join.",
       "priority": "info",
       "valid_from": "2026-08-15T00:00:00Z",
-      "valid_until": "2026-09-30T06:59:59Z",
+      "valid_until": "2026-09-24T06:59:59Z",
       "link": "https://luma.com/9jlrm0m3",
       "dismissable": true
     },
