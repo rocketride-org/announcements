@@ -179,6 +179,16 @@
       "dismissable": true
     },
     {
+      "id": "agentic-ai-hackathon-2-sf-2026",
+      "title": "![Hackathon](assets/trophy.svg) Agentic AI Hackathon 2.0",
+      "body": "8-hour **Agentic AI** hackathon at **AWS Builder Loft, San Francisco** on **December 15, 2026**. Build with expert mentorship, compete for prizes, and demo to industry leaders.",
+      "priority": "info",
+      "valid_from": "2026-11-01T00:00:00Z",
+      "valid_until": "2026-12-16T07:59:59Z",
+      "link": "https://luma.com/12545fxr",
+      "dismissable": true
+    },
+    {
       "id": "podcast-ide-command-center-2026",
       "title": "![Listen](assets/mic.svg) Podcast: The IDE as AI Command Center",
       "body": "**Joe Maionchi** on why your IDE is the new command center for building AI. Watch the episode.",
