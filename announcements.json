@@ -159,6 +159,36 @@
       "dismissable": true
     },
     {
+      "id": "zero-to-agent-la-nov-2026",
+      "title": "![Build](assets/code-brackets.svg) Zero to Agent: Los Angeles",
+      "body": "A hands-on **RocketRide** workshop in **Venice, Los Angeles** on **November 11 at 5:30 PM PT**: build, debug, and deploy your own AI agent to RocketRide Cloud, right from your IDE. Less talk, more code.",
+      "priority": "info",
+      "valid_from": "2026-11-05T00:00:00Z",
+      "valid_until": "2026-11-12T07:59:59Z",
+      "link": "https://luma.com/rocket-se0l",
+      "dismissable": true
+    },
+    {
+      "id": "zero-to-agent-san-jose-nov-2026",
+      "title": "![Build](assets/code-brackets.svg) Zero to Agent: San Jose",
+      "body": "A hands-on **RocketRide** workshop in **San Jose** on **November 17 at 5:30 PM PT**: build, debug, and deploy your own AI agent to RocketRide Cloud, right from your IDE. Less talk, more code.",
+      "priority": "info",
+      "valid_from": "2026-11-05T00:00:00Z",
+      "valid_until": "2026-11-18T07:59:59Z",
+      "link": "https://luma.com/rocket-r59i",
+      "dismissable": true
+    },
+    {
+      "id": "zero-to-agent-palo-alto-nov-2026",
+      "title": "![Build](assets/code-brackets.svg) Zero to Agent: Palo Alto",
+      "body": "A hands-on **RocketRide** workshop in **Palo Alto** on **November 18 at 5:30 PM PT**: build, debug, and deploy your own AI agent to RocketRide Cloud, right from your IDE. Less talk, more code.",
+      "priority": "info",
+      "valid_from": "2026-11-05T00:00:00Z",
+      "valid_until": "2026-11-19T07:59:59Z",
+      "link": "https://luma.com/rocket-who3",
+      "dismissable": true
+    },
+    {
       "id": "hackwithbay-4-sf-2026",
       "title": "![Hackathon](assets/trophy.svg) HackwithBay 4.0",
       "body": "8-hour hackathon on **Thoughtful Agents for Productivity** at **AWS Builder Loft, San Francisco** on **November 24, 2026**. Build, compete for prizes, and demo to industry leaders.",
